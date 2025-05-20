@@ -1,0 +1,18 @@
+flask
+streamlit
+numpy
+pandas
+langchain
+llama-index
+langchain-community
+langchain-openai
+langchain-core
+fastapi
+pydantic
+gtts
+uvicorn
+# googletrans
+transformers
+sentencepiece
+torch
+sacremoses
