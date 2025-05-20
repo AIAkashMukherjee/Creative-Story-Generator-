@@ -11,8 +11,8 @@ fastapi
 pydantic
 gtts
 uvicorn
-# googletrans
 transformers
 sentencepiece
 torch
 sacremoses
+-e .
